@@ -1,19 +1,6 @@
-# Bevry's Project Base Files
-Files we use when scaffolding new projects.
+# TD UFD52 EC1 langages informatiques pour le web - L3
 
-[`bevry/based`](https://github.com/bevry/based) is underway to automate the application of these files, for new projects, and existing projects.
+## TD n°1 du 22 septembre 2017
 
-
-## Setup
-
-### init
-
-Setup your new project:
-
-``` shell
-npm init
-touch README.md
-```
-
-
-### files
+[`Présentation`](TD1.pptx)
+[`Exemple 1`](avec-CSS.html)
