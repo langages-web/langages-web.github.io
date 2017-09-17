@@ -1,6 +1,8 @@
-# TD UFD52 EC1 langages informatiques pour le web - L3
+# Langages informatiques pour le web
 
 ## TD n°1 du 22 septembre 2017
 
-[`Présentation`](TD1.pptx)
-[`Exemple 1`](avec-CSS.html)
+[`Présentation`](TD1/TD1.pptx)
+
+[`Exemple 1 - Une page avec CSS`](TD1/avec-CSS.html)
+[`Exemple 2 - La même page sans CSS`](TD1/sans-CSS.html)
