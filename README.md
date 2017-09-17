@@ -8,12 +8,14 @@
 
 ![HTML](html-icon.png) <a href="TD1/sans-CSS.html" target="_blank">Exemple 1 - La même page sans CSS</a>
 
-	<!DOCTYPE html>
-	<html>
-		<head>
-			<meta charset="utf-8" />
-			<title>Titre</title>
-		</head>
-		<body>
-		</body>
-	</html>
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>Titre</title>
+	</head>
+	<body>
+	</body>
+</html>
+```
