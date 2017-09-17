@@ -6,7 +6,9 @@
 
 ![HTML](html-icon.png) <a href="TD1/avec-CSS.html" target="_blank">Exemple 1 - Une page avec CSS</a>
 
-![HTML](html-icon.png) <a href="TD1/sans-CSS.html" target="_blank">Exemple 1 - La même page sans CSS</a>
+![HTML](html-icon.png) <a href="TD1/sans-CSS.html" target="_blank">Exemple 2 - La même page sans CSS</a>
+
+![HTML](html-icon.png) <a href="TD1/compare.html" target="_blank">Comparatif avec et sans CSS</a>
 
 ### Squelette de base d'une page HTML
 

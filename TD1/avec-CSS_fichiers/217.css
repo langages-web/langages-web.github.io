@@ -137,7 +137,7 @@
 	/* 550 and up */	
 	@media screen and (min-width:550px) {
 
-		h2 							{ font-size:8em; }
+		h2 							{ font-size:5em; }
 		section.intro 				{ width:66.6%; }
 		aside.sidebar 				{ position:absolute; right:0; top:2.5%; width:32.75%; }
 		div.extra1 					{ background:rgba(51,55,69,0.9); bottom:0; right:0; position:fixed; top:0; width:30%; z-index:1; }
