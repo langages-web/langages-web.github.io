@@ -2,7 +2,7 @@
 
 ## TD n°1 du 22 septembre 2017
 
-[`Présentation`](TD1/TD1.pptx)
+[Présentation](TD1/TD1.pptx)
 
 [Exemple 1 - Une page avec CSS](TD1/avec-CSS.html)
 <a href="TD1/avec-CSS.html" target="_blank">Exemple 1 - Une page avec CSS</a>
