@@ -11,17 +11,3 @@
 ![HTML](html-icon.png) <a href="TD1/compare.html" target="_blank">Comparatif avec et sans CSS</a>
 
 ![HTML](html-icon.png) <a href="TD1/t1.html" target="_blank">Ma première page Web publiée</a>
-
-### Squelette de base d'une page HTML
-
-```html
-<!DOCTYPE html>
-<html>
-	<head>
-		<meta charset="utf-8" />
-		<title>Titre</title>
-	</head>
-	<body>
-	</body>
-</html>
-```
