@@ -1,8 +1,8 @@
 # Sommaire
 
 * <a href="#tds">TDs</a>
-  ** <a href="#td-n2-du-29-septembre-2017">TD n°2 du 29 septembre 2017</a>
-  ** <a href="#td-n1-du-22-septembre-2017">TD n°1 du 22 septembre 2017</a>
+  * <a href="#td-n2-du-29-septembre-2017">TD n°2 du 29 septembre 2017</a>
+  * <a href="#td-n1-du-22-septembre-2017">TD n°1 du 22 septembre 2017</a>
 * <a href="#squelette-de-base-dune-page-html">Squelette de base d'une page HTML</a>
 * <a href="#liens-utiles">Liens utiles</a>
 
