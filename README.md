@@ -38,4 +38,5 @@
 </html>
 ```
 
-# Lien utiles
+# Liens utiles
+![LIEN](link-icon.png) [Balises HTML avec leurs caractéristiques](http://htmlreference.io/)
