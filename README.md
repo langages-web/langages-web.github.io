@@ -46,13 +46,20 @@ URLs à utiliser :
 
 ### Exercice 3
 
-URLs à utiliser :
+URL de l'image à utiliser :
 * https://langages-web.github.io/TD2/photo.png
 
 ### Exercice 4
 
-URLs à utiliser :
+URL à utiliser :
 * https://langages-web.github.io/TD2/photo-grande.png
+
+### Exercice 5
+
+URLs des images à utiliser :
+* https://langages-web.github.io/TD2/pizza1.png
+* https://langages-web.github.io/TD2/pizza2.png
+* https://langages-web.github.io/TD2/pizza3.png
 
 
 ## TD n°1 du 22 septembre 2017
