@@ -10,7 +10,7 @@
 
 ## TD n°2 du 29 septembre 2017
 
-# Exercice 1
+### Exercice 1
 
 ```
 Déclaration d'indépendance du cyberespace
@@ -44,12 +44,12 @@ URLs à utiliser :
 * http://editions-hache.com/essais/barlow/barlow2.html
 * https://www.eff.org/
 
-# Exercice 3
+### Exercice 3
 
 URLs à utiliser :
 * https://langages-web.github.io/TD2/photo.png
 
-# Exercice 4
+### Exercice 4
 
 URLs à utiliser :
 * https://langages-web.github.io/TD2/photo-grande.png
