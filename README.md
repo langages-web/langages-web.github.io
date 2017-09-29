@@ -10,6 +10,8 @@
 
 ## TD n°2 du 29 septembre 2017
 
+![PPT](pdf-icon.png) [Présentation](TD2/TD2.pdf)
+
 ### Exercice 1
 
 ```
