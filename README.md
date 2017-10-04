@@ -11,6 +11,13 @@
 
 ## TD n°3 du 6 octobre 2017
 
+### Exercice 1
+
+URLs des images à utiliser :
+* https://langages-web.github.io/TD2/pizza1.png
+* https://langages-web.github.io/TD2/pizza2.png
+* https://langages-web.github.io/TD2/pizza3.png
+
 ## TD n°2 du 29 septembre 2017
 
 ![PPT](pdf-icon.png) [Présentation](TD2/TD2.pdf)
@@ -131,14 +138,6 @@ URL à utiliser :
 	</body>
 </html>
 ```
-
-### Exercice 5
-
-URLs des images à utiliser :
-* https://langages-web.github.io/TD2/pizza1.png
-* https://langages-web.github.io/TD2/pizza2.png
-* https://langages-web.github.io/TD2/pizza3.png
-
 
 ## TD n°1 du 22 septembre 2017
 
