@@ -11,6 +11,8 @@
 
 ## TD n°3 du 6 octobre 2017
 
+![PPT](pdf-icon.png) [Présentation](TD3/TD3.pdf)
+
 ### Exercice 1
 
 URLs des images à utiliser :
