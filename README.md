@@ -14,6 +14,7 @@
 
 ### Exercice 1
 
+_Clic droit &gt; afficher l'image_
 ![TD4-ex1](TD4/TD4-ex1.jpg)
 
 URLs des images à utiliser :
