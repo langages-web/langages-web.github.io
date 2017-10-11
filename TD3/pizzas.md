@@ -17,8 +17,11 @@
 		  </thead>
 		  <tbody>
 			<tr>
-			  <td><span>Boeuf - Pepperoni</span><br><img src="https://langages-web.github.io/TD2/pizza1.png" alt="boeuf"></td>
-			  <td>
+				<td>
+					Boeuf - Pepperoni<br>
+					<img src="https://langages-web.github.io/TD2/pizza1.png"/>
+				</td>
+				<td>
 				<ul>
 				  <li>Sauce barbecue</li>
 				  <li>Mozzarella</li>
@@ -29,7 +32,7 @@
 			  <td>12 €</td>
 			</tr>
 			<tr>
-			  <td><span>Figue - Chèvre</span><br><img src="https://langages-web.github.io/TD2/pizza2.png" alt="boeuf"></td>
+			  <td>Figue - Chèvre<br/><img src="https://langages-web.github.io/TD2/pizza2.png"/></td>
 			  <td>
 				<ul>
 				  <li>Mozzarella</li>
@@ -41,7 +44,7 @@
 			  <td>11 €</td>
 			</tr>
 			<tr>
-			  <td><span>Savoyarde Reblochon</span><br><img src="https://langages-web.github.io/TD2/pizza3.png" alt="boeuf"></td>
+			  <td><span>Savoyarde Reblochon</span><br><img src="https://langages-web.github.io/TD2/pizza3.png"></td>
 			  <td>
 				<ul>
 				  <li>Crème</li>

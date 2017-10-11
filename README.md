@@ -1,6 +1,7 @@
 # Sommaire
 
 * <a href="#tds">TDs</a>
+  * <a href="#td-n4-du-13-octobre-2017">TD n°4 du 13 octobre 2017</a>
   * <a href="#td-n3-du-6-octobre-2017">TD n°3 du 6 octobre 2017</a>
   * <a href="#td-n2-du-29-septembre-2017">TD n°2 du 29 septembre 2017</a>
   * <a href="#td-n1-du-22-septembre-2017">TD n°1 du 22 septembre 2017</a>
@@ -8,6 +9,54 @@
 * <a href="#liens-utiles">Liens utiles</a>
 
 # TDs
+
+## TD n°4 du 13 octobre 2017
+
+### Exercice 1
+
+![TD4-ex1](TD4/TD4-ex1.jpg)
+
+URLs des images à utiliser :
+* https://langages-web.github.io/TD4/titre.png
+* https://langages-web.github.io/TD4/bandeau.jpg
+* https://langages-web.github.io/TD4/p1.jpg
+* https://langages-web.github.io/TD4/p2.jpg
+* https://langages-web.github.io/TD4/p3.jpg
+
+index.html :
+```html
+<!DOCTYPE html>
+<html lang="fr">
+	<head>
+		<meta charset="utf-8">
+		<title>Hifi Discount</title>
+    <link href="styles.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+    <div id="contenant">
+    </div>
+	</body>
+</html>
+
+```
+
+styles.css :
+```css
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+* {margin:0px; padding:0px; box-sizing: border-box;}
+
+
+body {
+  font-family: "Open Sans", Arial, Helvetica, sans-serif;
+  background-color: #eeeeee;
+}
+
+#contenant {
+  width: 600px;
+  margin: 0 auto; 
+  background: #ffffff;
+}
+```
 
 ## TD n°3 du 6 octobre 2017
 
@@ -17,6 +66,112 @@ URLs des images à utiliser :
 * https://langages-web.github.io/TD2/pizza1.png
 * https://langages-web.github.io/TD2/pizza2.png
 * https://langages-web.github.io/TD2/pizza3.png
+
+#### Correction (Exercices 1 & 2)
+
+* HTML
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <title>Titre</title>
+	<link rel="stylesheet" href="styles.css"/>
+  </head>
+  <body>
+    <table>
+      <thead>
+        <tr>
+          <th>Pizza</th>
+          <th>Composition</th>
+          <th>Prix</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>
+            <span>Boeuf - Pepperoni</span><br/>
+            <img src="https://langages-web.github.io/TD2/pizza1.png" alt="boeuf"/>
+          </td>
+          <td>
+            <ul>
+              <li>Sauce barbecue</li>
+              <li>Mozzarella</li>
+              <li>Oignons émincés</li>
+              <li>Tomates en dés</li>
+              <li>Éffiloché de bœuf</li>
+            </ul>
+          </td>
+          <td class="prix">
+            12 €
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>Figue - Chèvre</span><br/>
+            <img src="https://langages-web.github.io/TD2/pizza2.png" alt="boeuf"/>
+          </td>
+          <td>
+            <ul>
+              <li>Mozzarella</li>
+              <li>Chèvre</li>
+              <li>Fourme d'Ambert</li>
+              <li>Bacon</li>
+              <li>Figues</li>
+            </ul>
+          </td>
+          <td class="prix">
+            11 €
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <span>Savoyarde Reblochon</span><br/>
+            <img src="https://langages-web.github.io/TD2/pizza3.png" alt="boeuf"/>
+          </td>
+          <td>
+            <ul>
+              <li>Crème</li>
+              <li>Reblochon</li>
+              <li>Pommes de terre</li>
+              <li>Lardons</li>
+              <li>Oignons</li>
+            </ul>
+          </td>
+          <td class="prix">
+            10 €
+          </td>
+        </tr>
+      </tbody>
+    </table>
+  </body>
+</html>
+```
+* CSS
+
+```css
+* { font-family: Arial; }
+
+th {
+	background-color: teal;
+	color: white;
+}
+
+span {
+	font-style: italic;
+font-size: 16px;
+font-weight: bold;
+}
+
+table {
+	border : 1px solid black;
+}
+
+.prix {
+	background-color : LightGray;
+}
+```
 
 ## TD n°2 du 29 septembre 2017
 
