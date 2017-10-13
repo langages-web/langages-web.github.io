@@ -281,6 +281,7 @@ _styles.css :_
 ```
 
 _Clic droit &gt; afficher l'image_
+
 ![TD4-ex2](TD4/TD4-ex2-resultat.jpg)
 
 ### Exercice 3
