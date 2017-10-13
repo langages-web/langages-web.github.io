@@ -226,11 +226,13 @@ _selecteur_ {
 	font-size: 13px;
 }
 ```
+_Clic droit &gt; afficher l'image_
+![TD4-ex2](TD4/TD4-ex1-resultat.jpg)
 
 ### Exercice 2
 
 _Clic droit &gt; afficher l'image_
-![TD4-ex1](TD4/TD4-ex1.jpg)
+![TD4-ex2](TD4/TD4-ex1.jpg)
 
 URLs des images à utiliser :
 * https://langages-web.github.io/TD4/titre.png
