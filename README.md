@@ -12,6 +12,8 @@
 
 ## TD n°4 du 13 octobre 2017
 
+![PPT](pdf-icon.png) [Présentation](TD4/TD4.pdf)
+
 ### Exercice 1
 
 _index.html :_
@@ -332,6 +334,8 @@ _Résultat attendu (Clic droit &gt; afficher l'image)_
 ![TD4-ex2](TD4/TD4-ex1.jpg)
 
 ## TD n°3 du 6 octobre 2017
+
+![PPT](pdf-icon.png) [Présentation](TD3/TD3.pdf)
 
 ### Exercice 1
 
