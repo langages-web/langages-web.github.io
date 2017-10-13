@@ -63,6 +63,7 @@ _index.html :_
 </html>
 ```
 _styles.css :_
+```css
 /* Règle concernant l'ensemble du contenu */
 _selecteur_ {
 	background-color: #F6F6F6;
