@@ -280,14 +280,11 @@ _styles.css :_
 }
 ```
 
-_Clic droit &gt; afficher l'image_
+_Résultat attendu_
 
 ![TD4-ex2](TD4/TD4-ex2-resultat.jpg)
 
 ### Exercice 3
-
-_Clic droit &gt; afficher l'image_
-![TD4-ex2](TD4/TD4-ex1.jpg)
 
 URLs des images à utiliser :
 * https://langages-web.github.io/TD4/titre.png
@@ -330,6 +327,9 @@ body {
   background: #ffffff;
 }
 ```
+
+_Résultat attendu (Clic droit &gt; afficher l'image)_
+![TD4-ex2](TD4/TD4-ex1.jpg)
 
 ## TD n°3 du 6 octobre 2017
 
