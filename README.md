@@ -1,6 +1,7 @@
 # Sommaire
 
 * <a href="#tds">TDs</a>
+  * <a href="#td-n5-du-20-octobre-2017">TD n°5 du 20 octobre 2017</a>
   * <a href="#td-n4-du-13-octobre-2017">TD n°4 du 13 octobre 2017</a>
   * <a href="#td-n3-du-6-octobre-2017">TD n°3 du 6 octobre 2017</a>
   * <a href="#td-n2-du-29-septembre-2017">TD n°2 du 29 septembre 2017</a>
@@ -9,6 +10,23 @@
 * <a href="#liens-utiles">Liens utiles</a>
 
 # TDs
+
+## TD n°5 du 20 octobre 2017
+
+### Exercice 1
+
+[Sources de l'exercice](https://langages-web.github.io/TD5/TD5-EX1.zip)
+[Résultat à obtenir](https://langages-web.github.io/TD5/resultat.jpg)
+
+URLs des images à utiliser :
+* https://langages-web.github.io/TD5/slider.jpg
+* https://langages-web.github.io/TD5/what1.png
+* https://langages-web.github.io/TD5/what2.png
+* https://langages-web.github.io/TD5/what3.png
+* https://langages-web.github.io/TD5/work1.jpg
+* https://langages-web.github.io/TD5/work2.jpg
+* https://langages-web.github.io/TD5/work3.jpg
+* https://langages-web.github.io/TD5/work4.jpg
 
 ## TD n°4 du 13 octobre 2017
 
