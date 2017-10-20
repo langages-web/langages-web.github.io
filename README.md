@@ -13,6 +13,8 @@
 
 ## TD n°5 du 20 octobre 2017
 
+![PPT](pdf-icon.png) [Présentation](TD5/TD5.pdf)
+
 ### Exercice 1
 
 [Sources de l'exercice](https://langages-web.github.io/TD5/TD5-EX1.zip)
