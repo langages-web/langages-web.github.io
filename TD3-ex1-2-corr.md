@@ -9,7 +9,7 @@
   <head>
     <meta charset="utf-8" />
     <title>Titre</title>
-	<link rel="stylesheet" href="styles.css"/>
+  <link rel="stylesheet" href="styles.css"/>
   </head>
   <body>
     <table>
@@ -86,21 +86,21 @@
 * { font-family: Arial; }
 
 th {
-	background-color: teal;
-	color: white;
+  background-color: teal;
+  color: white;
 }
 
 span {
-	font-style: italic;
+  font-style: italic;
 font-size: 16px;
 font-weight: bold;
 }
 
 table {
-	border : 1px solid black;
+  border : 1px solid black;
 }
 
 .prix {
-	background-color : LightGray;
+  background-color : LightGray;
 }
 ```

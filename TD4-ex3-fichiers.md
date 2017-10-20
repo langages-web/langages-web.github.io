@@ -5,15 +5,15 @@ _index.html :_
 ```html
 <!DOCTYPE html>
 <html lang="fr">
-	<head>
-		<meta charset="utf-8">
-		<title>Hifi Discount</title>
+  <head>
+    <meta charset="utf-8">
+    <title>Hifi Discount</title>
     <link href="styles.css" rel="stylesheet" type="text/css">
-	</head>
-	<body>
+  </head>
+  <body>
     <div id="contenant">
     </div>
-	</body>
+  </body>
 </html>
 
 ```
