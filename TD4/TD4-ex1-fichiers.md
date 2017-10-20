@@ -1,4 +1,4 @@
-## TD n°4 exercice 1
+## TD nÂ°4 exercice 1
 
 
 _index.html :_
@@ -19,7 +19,7 @@ _index.html :_
       </div>
       <div id="titre">
         <h1>Who we are</h1>
-        <div>Give information about your lifestyle, philosophy or what the impact you’re trying to make is.</div>
+        <div>Give information about your lifestyle, philosophy or what the impact youâ€™re trying to make is.</div>
       </div>
       <div id="reseaux" class="fond-bleu">
         <span>Stay in Touch !</span>
@@ -41,7 +41,7 @@ _index.html :_
       <div class="texte">
         <h2>Invite people to a class</h2>
         <p>
-          Do you have specials if people invite a friend? Do you offer a summer special, Back to school promotion, New Year’s resolution or Spring Detox ?
+          Do you have specials if people invite a friend? Do you offer a summer special, Back to school promotion, New Yearâ€™s resolution or Spring Detox ?
         </p>
         <a href="#">Read More</a>
       </div>
@@ -51,7 +51,7 @@ _index.html :_
 ```
 _styles.css :_
 ```css
-/* Règle concernant l'ensemble du contenu */
+/* RÃ¨gle concernant l'ensemble du contenu */
 _selecteur_ {
 	background-color: #F6F6F6;
 	margin: 0;
@@ -59,12 +59,12 @@ _selecteur_ {
 	font-family: sans-serif;
 }
 
-/* Pour éviter que les liens ne soient soulignés */
+/* Pour Ã©viter que les liens ne soient soulignÃ©s */
 _selecteur_ {
 	text-decoration: none;
 }
 
-/* Pour les éléments ayant un fond bleu */
+/* Pour les Ã©lÃ©ments ayant un fond bleu */
 _selecteur_ {
 	background-color: #62A9D2;
 }
@@ -109,7 +109,7 @@ _selecteur_ {
 	font-size: 45px;
 }
 
-/* Lien en haut à droite */
+/* Lien en haut Ã  droite */
 _selecteur_ {
 	color: #A8B0B6;
 	font-size: 12px;
@@ -138,14 +138,14 @@ _selecteur_ {
 	padding: 10px 70px;
 }
 
-/* Section réseaux sociaux */
+/* Section rÃ©seaux sociaux */
 _selecteur_ {
 	padding: 20px;
 	font-style: italic;
 	color: #0F4666;
 }
 
-/* Boutons réseaux sociaux */
+/* Boutons rÃ©seaux sociaux */
 _selecteur_ {
 	background-color: #95C5E2;
 	float: right;
@@ -171,7 +171,7 @@ _selecteur_ {
 	width: 100%;
 }
 
-/* Légende image */
+/* LÃ©gende image */
 _selecteur_ {
 	padding: 20px;
 	font-size: 21px;

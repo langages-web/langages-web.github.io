@@ -1,4 +1,4 @@
-## TD n°3 correction des exercices 1 & 2
+## TD nÂ°3 correction des exercices 1 & 2
 
 
 * HTML
@@ -30,31 +30,31 @@
             <ul>
               <li>Sauce barbecue</li>
               <li>Mozzarella</li>
-              <li>Oignons émincés</li>
-              <li>Tomates en dés</li>
-              <li>Éffiloché de bœuf</li>
+              <li>Oignons Ã©mincÃ©s</li>
+              <li>Tomates en dÃ©s</li>
+              <li>Ã‰ffilochÃ© de bÅ“uf</li>
             </ul>
           </td>
           <td class="prix">
-            12 €
+            12 â‚¬
           </td>
         </tr>
         <tr>
           <td>
-            <span>Figue - Chèvre</span><br/>
+            <span>Figue - ChÃ¨vre</span><br/>
             <img src="https://langages-web.github.io/TD2/pizza2.png" alt="boeuf"/>
           </td>
           <td>
             <ul>
               <li>Mozzarella</li>
-              <li>Chèvre</li>
+              <li>ChÃ¨vre</li>
               <li>Fourme d'Ambert</li>
               <li>Bacon</li>
               <li>Figues</li>
             </ul>
           </td>
           <td class="prix">
-            11 €
+            11 â‚¬
           </td>
         </tr>
         <tr>
@@ -64,7 +64,7 @@
           </td>
           <td>
             <ul>
-              <li>Crème</li>
+              <li>CrÃ¨me</li>
               <li>Reblochon</li>
               <li>Pommes de terre</li>
               <li>Lardons</li>
@@ -72,7 +72,7 @@
             </ul>
           </td>
           <td class="prix">
-            10 €
+            10 â‚¬
           </td>
         </tr>
       </tbody>

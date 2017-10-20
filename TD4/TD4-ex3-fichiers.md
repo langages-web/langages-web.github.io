@@ -1,4 +1,4 @@
-## TD n°4 exercice 3
+## TD nÂ°4 exercice 3
 
 _index.html :_
 ```html
