@@ -1,5 +1,6 @@
 # Sommaire
 
+* <a href="#liens-utiles">Liens utiles</a>
 * <a href="#tds">TDs</a>
   * <a href="#td-n5-du-20-octobre-2017">TD n°5 du 20 octobre 2017</a>
   * <a href="#td-n4-du-13-octobre-2017">TD n°4 du 13 octobre 2017</a>
@@ -7,7 +8,11 @@
   * <a href="#td-n2-du-29-septembre-2017">TD n°2 du 29 septembre 2017</a>
   * <a href="#td-n1-du-22-septembre-2017">TD n°1 du 22 septembre 2017</a>
 * <a href="#squelette-de-base-dune-page-html">Squelette de base d'une page HTML</a>
-* <a href="#liens-utiles">Liens utiles</a>
+
+
+# Liens utiles
+![LIEN](link-icon.png) [Balises HTML avec leurs caractéristiques](http://htmlreference.io/)
+![LIEN](link-icon.png) [Propriétés CSS avec leurs caractéristiques](http://cssreference.io/)
 
 # TDs
 
@@ -626,7 +631,3 @@ URL à utiliser :
 	</body>
 </html>
 ```
-
-# Liens utiles
-![LIEN](link-icon.png) [Balises HTML avec leurs caractéristiques](http://htmlreference.io/)
-![LIEN](link-icon.png) [Memento des propriétés CSS](https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3/memento-des-proprietes-css)
