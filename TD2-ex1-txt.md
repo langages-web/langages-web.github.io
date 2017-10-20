@@ -1,4 +1,4 @@
-## TD n°2 texte de l'exercice 1
+## TD n°2 - exercice 1 - texte
 
 ```
 Déclaration d'indépendance du cyberespace

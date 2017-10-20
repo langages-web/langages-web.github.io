@@ -1,4 +1,5 @@
-## TD n°4 exercice 3
+## TD n°4 - exercice 3 - fichiers à utiliser
+
 
 _index.html :_
 ```html

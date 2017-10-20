@@ -1,4 +1,4 @@
-## TD n°3 correction des exercices 1 & 2
+## TD n°3 - exercices 1 & 2 - correction
 
 
 * HTML

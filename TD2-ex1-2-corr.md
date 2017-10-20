@@ -1,4 +1,5 @@
-## TD n°2 correction des exercices 1 & 2
+## TD n°2 - exercices 1 & 2 - correction
+
 
 ```html
 <!DOCTYPE html>

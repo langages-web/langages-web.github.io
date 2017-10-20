@@ -1,4 +1,5 @@
-## TD n°4 correction de l'exercice 1
+## TD n°4 - exercice 1 - correction
+
 
 _styles.css :_
 ```css
