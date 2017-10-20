@@ -19,6 +19,13 @@
 
 [Résultat à obtenir](https://langages-web.github.io/TD5/resultat.jpg)
 
+Couleurs à utiliser :
+* #fad000 - Orange
+* #d2eae3 - Bleu pale
+
+Nouvelle propriété :
+* border-radius : 15px;  _(coins arrondis)_
+
 URLs des images à utiliser :
 * https://langages-web.github.io/TD5/slider.jpg
 * https://langages-web.github.io/TD5/what1.png
