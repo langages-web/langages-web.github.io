@@ -81,6 +81,10 @@ URLs des images à utiliser :
 _Résultat attendu (Clic droit &gt; afficher l'image)_
 ![TD4-ex2](TD4/TD4-ex1.jpg)
 
+#### Correction de l'exercice 3
+
+[Correction](TD4-ex3-corr.html)
+
 ## TD n°3 du 6 octobre 2017
 
 ![PPT](pdf-icon.png) [Présentation](TD3/TD3.pdf)
