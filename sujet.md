@@ -1,27 +1,5 @@
 ## Ressources :
 
-### Images :
-* https://langages-web.github.io/exam/logo.png
-* https://langages-web.github.io/exam/musique.png
-* https://langages-web.github.io/exam/guitare.png
-* https://langages-web.github.io/exam/gramophone.png
-* https://langages-web.github.io/exam/tambour.png
-* https://langages-web.github.io/exam/dribbble.jpg
-* https://langages-web.github.io/exam/facebook.jpg
-* https://langages-web.github.io/exam/google.jpg
-* https://langages-web.github.io/exam/pinterest.jpg
-* https://langages-web.github.io/exam/twitter.jpg
-
-### Couleurs :
-* ![6B201B](https://dummyimage.com/15/6B201B/6B201B.png) #6B201B
-* ![FFFFFF](https://dummyimage.com/15/FFFFFF/FFFFFF.png) #FFFFFF
-* ![E7D274](https://dummyimage.com/15/E7D274/E7D274.png) #E7D274
-* ![5B342C](https://dummyimage.com/15/5B342C/5B342C.png) #5B342C
-* ![B6995A](https://dummyimage.com/15/B6995A/B6995A.png) #B6995A
-* ![526D33](https://dummyimage.com/15/526D33/526D33.png) #526D33
-* ![EEEEEE](https://dummyimage.com/15/EEEEEE/EEEEEE.png) #EEEEEE
-* ![555555](https://dummyimage.com/15/555555/555555.png) #555555
-
 ## Étape 1 :
 
 1. Ouvrir Notepad++
@@ -35,7 +13,28 @@
 ![Structure](https://langages-web.github.io/exam/structure.jpg)
 
 2. Ajouter les images aux endroits adéquats dans le fichier html
-3. Compléter le fichier index.html pour aboutir au résultat suivant
+3. Compléter le fichier index.html avec les contenus suivants pour aboutir au résultat ci-dessous :
+
+
+### Images :
+* https://langages-web.github.io/exam/logo.png
+* https://langages-web.github.io/exam/musique.png
+* https://langages-web.github.io/exam/guitare.png
+* https://langages-web.github.io/exam/gramophone.png
+* https://langages-web.github.io/exam/tambour.png
+* https://langages-web.github.io/exam/dribbble.jpg
+* https://langages-web.github.io/exam/facebook.jpg
+* https://langages-web.github.io/exam/google.jpg
+* https://langages-web.github.io/exam/pinterest.jpg
+* https://langages-web.github.io/exam/twitter.jpg
+
+### Textes :
+```
+Ac ne quis a nobis hoc ita dici forte miretur, quod alia quaedam in hoc facultas sit ingeni, neque haec dicendi ratio aut disciplina, ne nos quidem huic uni studio penitus umquam dediti fuimus.
+```
+```
+Coactique aliquotiens nostri pedites ad eos persequendos scandere clivos sublimes etiam si lapsantibus plantis fruticeta prensando vel dumos ad vertices venerint summos, inter arta tamen et invia nullas acies explicare permissi nec firmare nisu valido gressus: hoste discursatore rupium abscisa volvente, ruinis ponderum inmanium consternuntur, aut ex necessitate ultima fortiter dimicante, superati periculose per pronadiscedunt
+```
 
 ![Etape2](https://langages-web.github.io/exam/etape2.png)
 
@@ -55,6 +54,15 @@ Compléter les fichiers index.html et styles.css pour aboutir au résultat final
 	* text-align
 	* text-decoration
 	* width
+* les couleurs à utiliser sont :
+	* ![6B201B](https://dummyimage.com/15/6B201B/6B201B.png) #6B201B
+	* ![FFFFFF](https://dummyimage.com/15/FFFFFF/FFFFFF.png) #FFFFFF
+	* ![E7D274](https://dummyimage.com/15/E7D274/E7D274.png) #E7D274
+	* ![5B342C](https://dummyimage.com/15/5B342C/5B342C.png) #5B342C
+	* ![B6995A](https://dummyimage.com/15/B6995A/B6995A.png) #B6995A
+	* ![526D33](https://dummyimage.com/15/526D33/526D33.png) #526D33
+	* ![EEEEEE](https://dummyimage.com/15/EEEEEE/EEEEEE.png) #EEEEEE
+	* ![555555](https://dummyimage.com/15/555555/555555.png) #555555
 	
 ![Resultat](https://langages-web.github.io/exam/resultat.png)
 
