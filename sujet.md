@@ -6,6 +6,26 @@
 2. Créer 2 nouveaux fichiers styles.css et index.html puis y copier les contenus ci-dessous.
 3. Ouvrir le fichier index.html avec Firefox
 
+StylesStylesStyles.css
+```css
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+* {margin:0px; padding:0px; box-sizing: border-box;}
+
+
+body {
+  font-family: "Montserrat", Arial, Helvetica, sans-serif;
+  background-color: white;
+  margin: 20px;
+  font-size: 12px;
+}
+
+#contenant {
+  width: 450px;
+  margin: 0 auto;
+  box-shadow: 0px 0px 10px #999999;
+}
+```
+
 ## Étape 2 :
 
 1. Reproduire dans le fichier index.html la structure ci-dessous (uniquement les balises sans le contenu)
