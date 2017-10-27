@@ -30,11 +30,14 @@
 
 ## Étape 2 :
 
-1. Reproduire dans le fichier index.html la structure ci-dessous
-![Structure](file:///E:/GoogleDrive/UL%202017/Examen/structure.jpg)
+1. Reproduire dans le fichier index.html la structure ci-dessous (uniquement les balises sans le contenu)
+
+![Structure](https://langages-web.github.io/exam/structure.jpg)
+
 2. Ajouter les images aux endroits adéquats dans le fichier html
 3. Compléter le fichier index.html pour aboutir au résultat suivant
-![Etape2](file:///E:/GoogleDrive/UL%202017/Examen/etape2.png)
+
+![Etape2](https://langages-web.github.io/exam/etape2.png)
 
 ## Étape 3 :
 
@@ -53,7 +56,7 @@ Compléter les fichiers index.html et styles.css pour aboutir au résultat final
 	* text-decoration
 	* width
 	
-![Resultat](file:///E:/GoogleDrive/UL%202017/Examen/resultat.png)
+![Resultat](https://langages-web.github.io/exam/resultat.png)
 
 ## Étape 4 :
 
